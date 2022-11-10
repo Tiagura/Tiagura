@@ -6,7 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <div id="badges" align="center">
       <!--
@@ -24,10 +26,6 @@
 
 <div id="views" align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Tiagura&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ### :man_technologist: About Me :
