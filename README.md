@@ -33,6 +33,4 @@ Here are some ideas to get you started:
 </div>
 
 ## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tiagura)
