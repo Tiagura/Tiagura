@@ -31,6 +31,6 @@ Here are some ideas to get you started:
   </a>
   
 </div>
-
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tiagura)
+<div id="views" align="center">
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Tiagura)
+</div>
