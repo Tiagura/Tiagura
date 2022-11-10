@@ -35,6 +35,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://komarev.com/ghpvc/?username=Tiagura&style=flat-square&color=blue" alt=""/>
 </div>
 
+### :man_technologist: About Me :
+- I'm a student at Universidade de Aveiro, taking a Master's in Computer Engineering and Tellematics.
+- I have a degree in Computer Engineering and Informatics at Universidade de Aveiro.
+- I'm interested in networks, backend and also in hardware.
+- I like challenges, it forces me to think creatively.
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
