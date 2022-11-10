@@ -30,4 +30,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=Tiagura&style=flat-square&color=blue" alt=""/>
+
+<div id="views" align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Tiagura&style=flat-square&color=blue" alt=""/>
+</div>
